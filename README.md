@@ -6,3 +6,5 @@ An Idea about a game that require to develop perfect curves about a proposed des
 
 Make tools and programs whose controls and ideas are strange, useful, simple but sophisticated.     
 The themes and tools names will be inspired by stranger things environments.
+
+Let's start with a simple Calculator.
